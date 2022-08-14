@@ -69,15 +69,12 @@ body {
   border: 2px solid rgb(255, 255, 255);
   padding: 1rem;
   color: rgb(255, 255, 255);
+  width: 4rem;
+  height: 4rem;
 }
 .fa-brands:hover {
   color: hsl(300deg, 69%, 71%);
   border: 2px solid hsl(300deg, 69%, 71%);
-}
-
-.fa-facebook-f {
-  width: 3.8rem;
-  height: 3.8rem;
 }
 
 .mockup {
