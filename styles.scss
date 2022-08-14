@@ -69,14 +69,20 @@ body {
 .fa-brands{
 
     font-size: 1.5rem;
-    border-radius: 50px;
+    border-radius: 50%;
     border: 2px solid variables.$white;
     padding: 1rem;
+    color: variables.$white;
 
     &:hover{
         color:variables.$softMagenta;;
         border: 2px solid variables.$softMagenta;
     }
+}
+
+.fa-facebook-f {
+    width: 3.8rem;
+    height: 3.8rem;
 }
 
 .mockup {
